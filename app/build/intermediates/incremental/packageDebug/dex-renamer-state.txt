@@ -1,0 +1,7 @@
+#Mon Oct 30 10:18:43 ICT 2017
+base.0=D\:\\CFM\\Login2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fd4fc552871645b51a4723c68429f768151e1f2c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\CFM\\Login2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a913d469512886894688cd28879bfe4caf7789c7\\classes.dex
+base.1=D\:\\CFM\\Login2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a913d469512886894688cd28879bfe4caf7789c7
+file.0=D\:\\CFM\\Login2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fd4fc552871645b51a4723c68429f768151e1f2c\\classes.dex

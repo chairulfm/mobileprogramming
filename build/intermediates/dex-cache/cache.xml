@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\CFM\Login2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\CFM\Login2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-26.0.0-alpha1_ad62a4c71e1680da66e29b6dd676c5f32b21f26a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CFM\Login2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bc22796cc4c71354a45bae06616019c3ace91640">
+        <dex dex="D:\CFM\Login2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fd4fc552871645b51a4723c68429f768151e1f2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CFM\Login2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\CFM\Login2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-26.0.0-alpha1_fedd85ea551d4fcf26463fc5391fd4b9f09c28be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CFM\Login2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\CFM\Login2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-26.0.0-alpha1_b4a0477fb3310b2ddc243f9cff8b0f083f20edc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CFM\Login2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\CFM\Login2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-26.0.0-alpha1_ee432eb208f35ed2f440cffb7206368cb7898a5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CFM\Login2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\CFM\Login2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-26.0.0-alpha1_6d26c588775c27ea38d7228acfa30c320935bb9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CFM\Login2\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\CFM\Login2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-26.0.0-alpha1_23b8b001d882718b943ca37372f61ff63db6a282\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MUL06\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\CFM\Login2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_cf6b0ab6364297c1c86b57a8c36564f7d6a9d1c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CFM\Login2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="65e7b8027d24ce2e0d3cfc953916df744007fcd5">
+        <dex dex="D:\CFM\Login2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a913d469512886894688cd28879bfe4caf7789c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CFM\Login2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\CFM\Login2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-26.0.0-alpha1_13ec30e60f1aabbb051bc8074191941b2da8efaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CFM\Login2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\CFM\Login2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-26.0.0-alpha1_cd3fe10cbb45a8b1b555334ea45bb618b01ef49d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CFM\Login2\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\CFM\Login2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-26.0.0-alpha1_978161c8a276e52735caf46db811bc9924df2280\classes.dex" />
+    </item>
+
+</items>
